@@ -1,1 +1,1 @@
-# Tine-01
+## Me trying to learn TypeScript
